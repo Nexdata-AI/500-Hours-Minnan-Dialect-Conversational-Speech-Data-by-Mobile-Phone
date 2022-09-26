@@ -1,0 +1,1 @@
+# 500-Hours-Minnan-Dialect-Conversational-Speech-Data-by-Mobile-Phone
