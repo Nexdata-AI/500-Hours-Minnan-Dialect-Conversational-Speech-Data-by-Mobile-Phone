@@ -1,5 +1,6 @@
 # 500-Hours-Minnan-Dialect-Conversational-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1127
+https://bit.ly/3C99Ys5
+
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
 
@@ -26,3 +27,6 @@ speech recognition; voiceprint recognition
 
 ## Accuracy rate
 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
