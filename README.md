@@ -1,5 +1,4 @@
 # 500-Hours-Minnan-Dialect-Conversational-Speech-Data-by-Mobile-Phone
-https://bit.ly/3C99Ys5
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
